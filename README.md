@@ -8,3 +8,4 @@ Class: CSE - C3
 # Weekly Solutions
 
 -(Week 1-Lab 1) https://github.com/Vaseem18/ML-LAB/blob/main/week1/datawrangling.ipynb
+-(Week 2-Lab 2)
