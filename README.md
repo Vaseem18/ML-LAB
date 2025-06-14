@@ -1,4 +1,4 @@
-# Machine Learning Lab Solutions
+# Machine Learning Lab
 
 Name: MD.Vaseem Akram
 
