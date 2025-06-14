@@ -16,3 +16,4 @@ Class: CSE - C3
 -(Week 7-Lab 7) https://github.com/Vaseem18/ML-LAB/blob/main/week7/navie_bayes.ipynb
 -(Week 8-Lab 8) https://github.com/Vaseem18/ML-LAB/blob/main/week8/svm.ipynb
 -(Week 9-Lab 9) https://github.com/Vaseem18/ML-LAB/blob/main/week9/kmeans.ipynb
+-(Week 9-Lab 9) https://github.com/Vaseem18/ML-LAB/blob/main/week9/kmeans_example.ipynb
