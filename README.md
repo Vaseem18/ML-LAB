@@ -1,6 +1,6 @@
 # Machine Learning Lab Solutions
 
-Name:MD.Vaseem Akram
+Name: MD.Vaseem Akram
 
 ID: B200927
 
